@@ -31,6 +31,7 @@ class ViewController: UIViewController {
     
     override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
+        
         // Pause the view's session
         sceneView.session.pause()
     }
