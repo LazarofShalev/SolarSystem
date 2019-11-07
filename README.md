@@ -6,7 +6,7 @@ Solar System is an Augmented Reality iOS application, you can see the solar syst
 - Xcode Tools in order to build a GUI - SceneKit View, Custom buttons etc.
 - Apple's ARKit Framework 
 
-*The application is optimized both for iPhone and iPad
+*Optimized for iPhone and iPad
 
 ![](https://github.com/LazarofShalev/SolarSystem/blob/master/ScreenShots/1.jpg)
 ![](https://github.com/LazarofShalev/SolarSystem/blob/master/ScreenShots/2.jpg)
